@@ -11,5 +11,7 @@ public class Hello {
 		
 		System.out.println("한줄더간다");
 		
+		System.out.println("커밋 푸시 한번에");
+		
 	}
 }
