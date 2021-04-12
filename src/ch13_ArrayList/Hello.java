@@ -8,5 +8,8 @@ public class Hello {
 		System.out.println("비가오네요");
 		
 		System.out.println("핫픽스수정");
+		
+		System.out.println("한줄더간다");
+		
 	}
 }
